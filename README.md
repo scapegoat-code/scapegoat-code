@@ -1,16 +1,14 @@
-## Hi there 👋
+## howdy
 
-<!--
-**scapegoat-code/scapegoat-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+hi!!! I'm a computer science graduate who likes making things with code, breaking things, and occasionally figuring out how to fix them. I used to teach Computer Science for about 5 years, I'm an indie game dev, and work with arcade machines as a mechanic and a Technical Operations Manager.
 
-Here are some ideas to get you started:
+### ♡ about me
+- CS graduate
+- Python and C++ enjoyer
+- Indie game dev
+- lover of weird little projects
+- powered mostly by the indomitable human spirit and spite
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently working on my own little game and messing around with various programming projects whenever inspiration hits me.
+
+thanks for visiting my github!!
